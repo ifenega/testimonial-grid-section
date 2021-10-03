@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ifenega/testimonial-grid-section]
-- Live Site URL: [https://ifenega.github.io/testimonial-grid-section/](
+- Live Site URL: [https://ifenega.github.io/testimonial-grid-section/]
 
 ## My process
 
